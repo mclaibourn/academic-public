@@ -2,135 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/example/python/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/courses/example/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/visualization/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/courses/example/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/stats/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/example-talk/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/academic/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/authors/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/category/demo/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/author/nelson-bighetti/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/getting-started/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tag/plot/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/category/r/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tag/r-markdown/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tag/regression/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/3/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/preprint/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/source-themes/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/jupyter/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/example/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/deep-learning/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/demo/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/external-project/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/internal-project/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/journal-article/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/robert-ford/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/1/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/conference-paper/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/admin/</loc>
+    <loc>https://mclaibourn.github.io/academic-public/admin/</loc>
   </url>
 </urlset>
